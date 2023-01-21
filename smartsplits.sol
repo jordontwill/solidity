@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.0;
 
-contract SmartWallet {
+contract SmartSplits {
     address owner;
     address payable wallet1;
     address payable public wallet2;
